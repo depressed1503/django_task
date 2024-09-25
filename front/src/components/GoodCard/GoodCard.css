@@ -1,0 +1,16 @@
+.good_card {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    padding: 10px;
+    border-radius: 25px;
+    border: solid 1px var(--var-border-color);
+    background-color: var(--var-main-color);
+    gap: 10px;
+}
+
+.good_card__top {
+}
+
+.good_card__description {
+}

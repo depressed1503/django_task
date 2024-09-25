@@ -1,0 +1,7 @@
+.good_page_block {
+    max-width: 850px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
