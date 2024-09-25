@@ -18,7 +18,7 @@ export default function GoodCardList() {
 
     if (status === "error") {
         return (
-            <>Ошибка при загрузку данных товаров с сервера!</>
+            <>Ошибка при загрузке данных товаров с сервера!</>
         )
     }
 
